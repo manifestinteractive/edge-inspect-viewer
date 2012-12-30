@@ -15,6 +15,7 @@ This project generates a user friendly way of viewing & managing the snapshots c
 
 1. [Adobe Edge Inspect](http://html.adobe.com/edge/inspect/) - You'll want the Pro account if you are going to test multiple devices at the same time
 2. [Google Chrome Extension](https://chrome.google.com/webstore/detail/adobe-edge-inspect/ijoeapleklopieoejahbpdnhkjjgddem?hl=en) - You'll need this to connect to your mobile devices
+3. Local Development Server Running PHP - Used to fetch the contents from your Edge Inspect folder
 
 
 ## Setup Instructions
